@@ -4,6 +4,7 @@ A memory game for Arduino Uno. It displays a sequence of arrows based on setting
 
 
 USER MANUAL:
+
 Use of characters in menu:
 * ">" - press button RIGHT if you wish to change to a given option
 * "<" - press button LEFT if you wish to change to a given option
